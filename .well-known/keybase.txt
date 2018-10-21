@@ -1,0 +1,143 @@
+==================================================================
+https://keybase.io/dpflug
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pflug.email
+  * I am dpflug (https://keybase.io/dpflug) on keybase.
+  * I have a public key with fingerprint F2B7 9996 66D8 3093 F8D4  2129 26CD D321 89AA 2885
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018aa2aee53142c9b07cf8622d7f01eaa45d1e7185e69a79b29a0cea8ff81c118e0a",
+      "fingerprint": "f2b7999666d83093f8d4212926cdd32189aa2885",
+      "host": "keybase.io",
+      "key_id": "26cdd32189aa2885",
+      "kid": "01018aa2aee53142c9b07cf8622d7f01eaa45d1e7185e69a79b29a0cea8ff81c118e0a",
+      "uid": "a95fcaa57cda7233a2f45d6136110619",
+      "username": "dpflug"
+    },
+    "service": {
+      "hostname": "pflug.email",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535665514,
+  "expire_in": 157680000,
+  "prev": "92730901139506c8db06007fab137d02a14b9e49e7e5b5503369fdd7dd9a96bf",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUntQVGUU3yUkYnjlg0kdS64jr4Dud+/e165QjW5BU1MkDE6m23fv/e5yFXeX
+3csKsYSYxCMDCSfkpdjkhjgMxoCUmPbi4TiYpCjMNKNig2xTjNCCBjbTvYz+1599
+/5z5zvk9zjlzDoU9oQvRxwxfja5sjyvTX/Lxuu0VqLQI4+1iIWYswnajpYByReRS
+LLtlETNiOMABCyEBEaJIYCAEjscZQWJpghAZCQcIQgMlAsQAlkI0BxmOJziICwiy
+ksQCAQAW4RBLxCTZZkVOh1O2KaqsRPAMx3E0TYssiXOkxIoGAhAcQQuiSBKA5VRP
+lqVUYo7dpTHU5njoQsmyXc2pH8tSe/+B/5/7zl+SgxwlCRBSjCBChiBJSEgqnQYk
+DQBOA04DupDTBvcgFS06pNx8K1aciKk5tywgba3aHI/qS+VktAfKuSrR4bQrdsGe
+qxZyFMXhMmpEpdChIfci3vJIw8LLNlFdospwI6dLttswI1CRgiJrooAiKZqmKGBI
+xFCBQ3Yii6whKIZmcfVpPsitSnIEo24cB4DM4iicFliRx2kcZyTIA5IRcQICA88h
+A4cYRPEUhZMkzUmiyIgiBzmalzBtrDybHTOqVgq0qpou2WqDSr4TYcUhlQFkoE4f
+olsXFR0429vwmTSG1z24Fh3/+PCWBWhXpwt5KvJxJqImUldfW10+4ek3H/tmYb51
+ffT4iT89ejjqH/5uoHuh+vmFzPSsu7UHnVv1L4/c3rEqBr5Nc27Q2ZsaFy6/4vX1
+W/GdV/gRi/OXxbk15TOvXe7/vsW0MlRXZdZTXV/Zmy7C0nth6XntCe2lzRvGY+YS
+Pk+yHThbfWrb1xnpzeAjiz/7xgS8G3htdfYfnT4HGpouOPWuKZ69Pxz8Zk9aueXh
+2fa4YfOi7qVnen4YK/sr6cuOD32p3TUXxlM/xm9fOLKiLXdX0tzQi9B68nRbx+n5
+iLyDT26bKt0sgVhffXDJhH75+2c6Pwkv97/XFdA4v2l23wrP4ddLPK0t+ScNLxC3
+9o+4L/60arYq7A1Xh743fjJ187PGxS7TNB1042jAzfPHCweVrC8am6kpV13GWzsG
+K7J+nVz/ziZH7QQ9CvdtNM8dvXM9dGPFud/P733uSv7keHiA9M8JwVs3Qw2XVBgG
+yiyHC4ozmbEDPaCvMv3+lDRXkJncdoT8e9fxLd6GtpB6sakqduua68WdqS0p/nMp
+QaunfZ+aFz5IKdmZPXY5ImrtYEMs0df09Jk7ZZdCPXF5um/LbtmDPM1eX+PKQoPb
+kuY3en/GfTlRoyZT4LGreGdGbREfOelC+5eb5IH4bu637h+zvNun16Yk33sw1PrQ
+n/CqEj80K0cvWxdcMNnf0FtzM21moK/0Xw==
+=HUH6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dpflug
+
+==================================================================
+tpflug.co://keybase.io/dpflug
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tpflug.com
+  * I am dpflug (https://keybase.io/dpflug) on keybase.
+  * I have a public key with fingerprint F2B7 9996 66D8 3093 F8D4  2129 26CD D321 89AA 2885
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018aa2aee53142c9b07cf8622d7f01eaa45d1e7185e69a79b29a0cea8ff81c118e0a",
+      "fingerprint": "f2b7999666d83093f8d4212926cdd32189aa2885",
+      "host": "keybase.io",
+      "key_id": "26cdd32189aa2885",
+      "kid": "01018aa2aee53142c9b07cf8622d7f01eaa45d1e7185e69a79b29a0cea8ff81c118e0a",
+      "uid": "a95fcaa57cda7233a2f45d6136110619",
+      "username": "dpflug"
+    },
+    "service": {
+      "hostname": "tpflug.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538838744,
+  "expire_in": 157680000,
+  "prev": "93f90420a964232af02841c275768f9bec1530d2efb37555f298dc31cb7c93a4",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK1Sa1BUZRhehCx2QJExBMJ0T+iCEnMue25bkQk4OoypAeGwyXou39k9AbvL
+nt1F2OHSagFFETRcJAdrwMhNsXACmsmcoSYHiYrlJjKjMkMBA5hQznBxoHMY/dfP
+vj/ffM/7PM/7vO98Hwf7q9R+u/sGNBXemHf9eqdZlaHr9zE3xFr5AkjvhrLB+gVy
+eCA5jNkiD+khGIERimFQBgAcQ3QoR7MwyQkUgaI8KcAIYBgdziOARCgcEDRD0ixK
+MzAHGEoQKIRDEArADBQHCaLFBOw2u2hxyLYCypI0TRMEwVMYTGMCxetQBKVRguN5
+DEUoWu5JUbgsNFslRSGHYxkJxItWGZMfxvV4/8H/n3M71+0YGhc4hsFJjmdIFMMY
+VJDlBIIRCAITCK0QJWC3MLlAZvM2IcdpgoriIBlziRxQ1qrM8bjuWK/Hc9ZcWWez
+Wx1Wzpoj42aHwybpFZ2jwKYQ8wFrfGxhZEULL+9QVriAXRKtFkiPyEzOISqeCI5R
+FEaROl0cBE7ZRDswigoDJwkKlo/SB7hkS3nXNKxDYYYm0nQohjICjFI6hENJhSrQ
+LOBkL5hHgcBiJI7jAkpTPIchHEtyNMboIGWqPIsV0lNyTsYke0qiycI4nHYAFakr
+NmABKj+1anuYJmCh82ydcAv+ZHFQE/vk3z21Qfl0KnVgyBPk1egQlcd3uXRtzv9T
+5OnxHUHbX5RWfQ0Hg0Y3Zc8b7BXwSfHt+UF65jmx8OxcdDv3gsFTsc07Md9xJPzz
+/osNW34J7DaHnShskYaeIa9vq0k9kwG2dnomESwpdrHlwmt7tfcnSmK/+yP1sL22
+90ZAeiRecCTt5urV7ItHi93Ja42++3diuhJWrn1f33SvOS1u71xIdpv2N03DmyWR
+U+7cibyRAfU7m2vm2lq/ff32e87Wv7/ZeLeqJLkyUXtiuXz4zJ3AssYvo5d333yw
+j+7XLS41re756M+dU9pI/ItTJ5+XzOcO9fT2LYF60/nTjkxfe9v+sa9una+Memmo
+9i4i1mCVV581hOkDZ4t3DZafLl2NKodKMuo3r0k7Mvv4qn8Kv0bYv0wFAaU7h94a
+KKpt1FlGjnXsP701/Key5bzq8OBrhnlvVNVhdejMcFHHlCtlmHmgprIKklbcD711
+MWOdj1raXk5J3DRO/9B8JTk6lfZdTgjtGus5F3d9oa7KERIf4S02X9Jo0xsLHx6F
+EtOl2bLZG+KSM/TXR65ewzH/5u4mp8u/+gDWanTvGv3sUPD7ByKqe8Y9gRHTr8Ss
+aiyXtN1jM7mxLXzGvahiY8/tSU/QwfDJzI2+mRSXd6FfGtVOf9DY9sbccU9CVkXY
+yhYvta88/2c6q4E0t++5EB0wmvTh8RHzbH7nj1f+Bcpoyp8=
+=/Txe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dpflug
+
+==================================================================
