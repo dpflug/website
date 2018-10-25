@@ -1,0 +1,47 @@
+baseURL = "https://pflug.email/"
+languageCode = "en-us"
+title = "No Accounting for Taste"
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pflug.email" property="cc:attributionName" rel="cc:attributionURL">David Pflug</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+canonifyurls = true
+paginate = 3
+theme = "hugo-dusk"
+
+googleAnalytics = ""
+disqusShortname = ""
+
+[author]
+  name = "David Pflug"
+
+SectionPagesMenu = "main"
+
+pygmentsStyle = "monokai"
+pygmentsCodeFences = true
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[params.meta]
+  keywords = "blog, tech, linux"
+  description = "Welcome to my little corner of the asylum."
+
+[params]
+  github = "dpflug"
+  gitlab = "dpflug"
+  linkedin = "davidpflug"
+  email = "david@pflug.email"
+
+[params.colors]
+  background = "#101010"
+  main = "#99cc66"
+  text = "#dbdbdb"
+  code-quote-bg = "#1d1f21"
+  copyright = "#404040"
