@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font: medium sans-serif;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    margin: 2em auto;
+}
+
+main {
+    margin: 2em auto;
+}
+
+footer {
+    margin: 2em auto;
+    max-width: 40em;
+    width: auto;
+}
+
+h1,h2,h3 {
+    line-height: 1.2;
+}
+
+@media print {
+    body {
+        max-width: none;
+    }
+}
+
+/* Add " (PDF)" text after links that go to PDFs */
+a[href$=".pdf"]:after { content: " (PDF)"; }
+
+/* If file size specified as data attribute, use that too */
+a[href$=".pdf"][data-size]:after { content: " (PDF, " attr(data-size) ")"; }
+
+.img-circle {
+    border-radius: 50%
+}
+
+.p-note {
+    padding-top: -1em;
+}
+
+#social {
+    padding-top: 3em;
+}

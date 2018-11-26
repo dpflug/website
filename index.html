@@ -2,13 +2,19 @@
 <html class="no-js" lang="en-US">
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Welcome to my little corner of the asylum.</title>
+        <title>David Pflug</title>
         <meta name="description" content="Personal page of David Pflug">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="referrer" content="no-referrer">
 
         <link rel="stylesheet" type="text/css" href="normalize.css">
         <link rel="stylesheet" type="text/css" href="main.css">
+
+        <link rel="openid.delegate" href="https://pflug.email/">
+        <link rel="openid.server" href="https://openid.indieauth.com/openid">
+        <link rel="pingback" href="https://webmention.io/pflug.email/xmlrpc">
+        <link rel="webmention" href="https://webmention.io/pflug.email/webmention">
+        <link rel="canonical"  href="https://pflug.email">
 
         <link rel="apple-touch-icon" href="/apple-touch-icon.png">
         <link rel="icon" href="/favicon.ico">
@@ -16,6 +22,7 @@
         <link rel="icon" href="/favicon.jpg">
     </head>
     <body>
+        <header>
         <!--[if lt IE 11]>
             <p class="browserupgrade">
             You are using an <strong>outdated, unmaintained, insecure</strong>
@@ -23,40 +30,45 @@
             browser</a> to improve your experience.
             </p>
         <![endif]-->
-        <div class="content">
+        </header>
 
-            <h1>No Accounting for Taste</h1>
+        <main>
+            <div class="h-card">
+                <h2>
+                    <img class="u-photo h-card-headshot img-circle" src="headshot.png" alt="Photo of David">
+                    <br>
+                    <a class="p-name u-uid u-url" href="https://pflug.email">
+                        David Pflug
+                    </a>
+                </h2>
 
-            <div id="hcard-David-Pflug" class="h-card vcard">
-                <img class="u-photo h-card-headshot" src="headshot.png" alt="Photo of David" />
-
-                <a class="p-name u-url fn" href="https://pflug.email">
-                    David Pflug
-                </a>
-
-                <p class="p-note">
-                    This is my website, such that it is for now. I'm a
-                    freelancer with experience in Python, Linux, and matching
-                    people's needs and preferences to technology. I'm just
-                    putting my hand to the plow in front of me; little name
-                    humor there for you. Very little.
+                <p class="p-note p-job-title">
+                    <em><i>Freelance Full Stack DevOps</i></em>
                 </p>
 
-                <p>Ways you can reach me, roughly in order of preference:</p>
-
-                <ul>
-                    <li><a class="u-url" rel="me pgpkey" type="application/pgp-keys" href="/key.txt">GPG Key</a></li>
-                    <li><a class="u-url u-email" rel="me" href="mailto:david@pflug.email">david@pflug.email</a></li>
-                    <li><a class="u-url" rel="me" href="https://nerdica.net/profile/dpflug">nerdica.net/profile/dpflug</a></li>
-                    <li><a class="u-url" rel="me" href="https://github.com/dpflug">github.com/dpflug</a></li>
-                    <li><a class="u-url" rel="me" href="https://linkedin.com/in/davidpflug">linkedin.com/in/davidpflug</a></li>
-                    <li><a class="u-url" rel="me" href="https://keybase.io/dpflug">keybase.io/dpflug</a></li>
-                </ul>
+                <p id="social">
+                    <a class="u-url u-key" rel="me pgpkey" type="apppcation/pgp-keys" href="/key.txt">GPG Key</a><br>
+                    <a class="u-url u-email" rel="me" href="mailto:david@pflug.email">E-mail</a><br>
+                    <a class="u-url" rel="me" href="https://nerdica.net/profile/dpflug">Federation</a><br>
+                    <a class="u-url" rel="me" href="https://github.com/dpflug">GitHub</a><br>
+                    <a class="u-url" rel="me" href="https://gitlab.com/dpflug">GitLab</a><br>
+                    <a class="u-url" rel="me" href="https://linkedin.com/in/davidpflug">LinkedIn</a><br>
+                    <a class="u-url" rel="me" href="https://keybase.io/dpflug">Keybase</a><br>
+                </p>
             </div>
-        </div>
+        </main>
 
         <footer>
-            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pflug.email" property="cc:attributionName" rel="cc:attributionURL">David Pflug</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+            <div>
+                <a href="https://indieweb.org"><img src="/indieweb.png" alt="IndieWeb"></a>
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a>
+            </div>
+            <p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+            <div>
+                <a href="https://xn--sr8hvo.ws/⛓😫🐩/previous">←</a>
+                An IndieWeb Webring 🕸💍
+                <a href="https://xn--sr8hvo.ws/⛓😫🐩/next">→</a>
+            </div>
         </footer>
     </body>
 </html>
